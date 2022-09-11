@@ -22,3 +22,8 @@ The kernels can be applied separately to surface measurement, to produce separat
 ### Notes
 - The Sobel operator can only be applied to a black and white image. The 640\*480 pixel grid (A) consists of 8-bit-long brightness values for each pixel (YUV422 format). 
 
+### Bibliography
+_X. Jane Jiang, Paul J. Scott, Characterization of free-form structured surfaces,  Advanced Metrology, pp 281-317, 202, https://www.sciencedirect.com/topics/engineering/sobel-operator_
+
+_Raster & Image Processing: Edge Detection Filters, MicroImages, Inc. , 2014 https://www.microimages.com/documentation/TechGuides/81FiltEdge.pdf_
+
