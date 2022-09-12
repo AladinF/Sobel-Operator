@@ -1,7 +1,7 @@
 # Sobel-Operator
 Applying a Sobel operator to a black and white OV7670 output
 
-This project is based on the ov7670_to_vga project accessible here: https://github.com/ESCA-RISC-V/ov7670_to_vga. Please follow the steps, only the _cv\_core.sv_ file has been modified. 
+This project is based on the *ov7670\_to\_vga* project accessible here: https://github.com/ESCA-RISC-V/ov7670_to_vga. Please follow the steps, only the _cv\_core.sv_ file has been modified. 
 
 ### Introduction 
 The Sobel operator is 2-D spatial gradient operation on an image to detect and enhance the edges. 
